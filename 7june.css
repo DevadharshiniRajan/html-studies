@@ -1,0 +1,53 @@
+.divClass{
+    display:flex;
+    padding:1px;
+    text-align:center;
+.divClass1{ 
+    
+    width: 300px;
+    border-color:red ;
+    background-color:tan ;
+    padding:40px;
+    margin-left:10px;
+}
+.divClass2{
+        
+    width: 300px;
+    
+    border-color:green ;
+    background-color:pink;
+    padding:40px;
+    margin-left:10px;
+    
+}
+.divClass3{
+         
+    width: 300px;
+    
+    border-color:orange ;
+    background-color:orange;
+    padding:40px;
+    margin-left: 10px;
+   
+}
+.divClass4{
+         
+        width: 300px;
+       
+        border-color:purple;
+        background-color:antiquewhite;
+        padding:40px;
+        margin-left: 10px;
+}
+.divClass5{
+         
+  
+    border-color:violet;
+    background-color:lavender;
+    
+    width:300px;
+    padding:40px;
+    margin-left: 10px;
+}
+}
+ 
