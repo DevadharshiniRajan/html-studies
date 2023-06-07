@@ -1,0 +1,21 @@
+.div{
+    text-align: center;
+    margin-right: 450px;
+    margin-left: 500px;
+    background-color: beige;
+    border-color:black;
+    border-style: dotted;
+    padding:10px;
+    .div2{
+        background-color: tan;
+        border-style: inset;
+        border-color: bisque;
+        padding-left:19px;
+        padding-right: 5px;
+        margin-right: 100px;
+        margin-left: 10px;
+        text-align:center;
+        width: 850px;
+        height: 600px;
+    }
+}
